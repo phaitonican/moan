@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "YannikCenk"
+theme = "yingyang"
+
+[params]
+mainSections = ["posts"]
+headTitle = "YaCe"
+
+#[[params.socials]]
+#name = "About Me"
+#link = "https://joway.io"
