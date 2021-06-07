@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://phaitonican.github.io"
 languageCode = "en-us"
 title = "YannikCenk"
 theme = "yingyang"
