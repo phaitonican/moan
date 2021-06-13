@@ -1,7 +1,7 @@
 ---
 title: "Nft Lifestyle"
 date: 2021-06-07T02:49:50+02:00
-draft: true
+tags: ["nft"]
 ---
 
 # YannikCenk
