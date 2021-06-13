@@ -4,6 +4,7 @@ title = "YannikCenk"
 theme = "yingyang"
 
 [params]
+disqus = "https-phaitonican-github-io"
 mainSections = ["posts"]
 headTitle = "YaCe"
 
