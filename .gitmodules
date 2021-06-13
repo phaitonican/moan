@@ -1,6 +1,3 @@
-[submodule "themes/yingyang"]
-	path = themes/yingyang
-	url = https://github.com/joway/hugo-theme-yinyang.git
 [submodule "public"]
 	path = public
 	url = git@github.com:phaitonican/phaitonican.github.io.git
