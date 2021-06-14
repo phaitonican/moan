@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:phaitonican/phaitonican.github.io.git
 	branch = master
+[submodule "themes/zzo"]
+	path = themes/zzo
+	url = https://github.com/zzossig/hugo-theme-zzo.git
